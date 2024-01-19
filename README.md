@@ -7,6 +7,7 @@ Avant le début de la partie, nous aurons le choix entre trois options :
 2. Quelques cases bloquées seront choisies aléatoirement avant le début du jeu, nous ne pourrons pas inscrire une croix ou un rond dans ces cases. Le gagnant sera le premier joueur qui réalise un alignement. Une égalité est possible si la grille est pleine et aucun joueur n'a réussi à faire un alignement.
 3. Nous devrons jouer jusqu'à ce que la grille soit remplie. Le joueur qui aura réussi le plus d'alignements sera déclaré vainqueur.
 
+------------- ENGLISH VERSION ------------- 
 
 I embarked on the programming of the Tic-Tac-Toe game with specific rules. This strategy game pits 2 players against each other or me against a computer opponent. Each of us will use a different symbol, usually a cross X and a circle O. The goal for each player, whether it's me or my virtual opponent, will be to align a certain number of cross X (or circle O) vertically, horizontally, or diagonally on a square grid.
 
